@@ -36,7 +36,7 @@ Getting started {.cols-3}
 #### Server
 Ensure your web server directs all requests to your application's 
 `public/index.php` file  
-See: [Deployment](#deployment)
+See: [Deployment](#deployment-cols-3)
 
 
 ### Installation  {.cols-2}
@@ -542,7 +542,7 @@ Route::get('/', function (Request $request) {
     //
 });
 ```  
-[See Routing](#routing)
+[See Routing](#routing-cols-4)
 
 ### Path
 The request's path information
